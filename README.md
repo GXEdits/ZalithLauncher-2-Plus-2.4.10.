@@ -1,1 +1,1 @@
-# ZalithLauncher-2-Plus-2.4.10.
+ZalithLauncher 2 Plus-2.4.10.apk
